@@ -5,7 +5,8 @@ const FULL_HEART = '♥'
 // Your JavaScript code goes here!
 
 document.getElementById("modal").className = "hidden"
-  
+
+mimicServerCall()
 
 //------------------------------------------------------------------------------
 // Don't change the code below: this function mocks the server response
